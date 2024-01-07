@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+.hide {
+  display: none;
+}
+
+.page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: #fff7d4;
+  font-size: 1.6rem;
+}
+
+body,
+button {
+  font-family: "Love Light", cursive;
+}
+
+h1 {
+  cursor: pointer;
+  margin-bottom: 2rem;
+  font-size: 15rem;
+}
+
+.content img {
+  border-radius: 2rem;
+  width: 120.5rem;
+}
+
+.content p {
+  text-align: center;
+  width: 120.5rem;
+  font-size: 22rem;
+}
